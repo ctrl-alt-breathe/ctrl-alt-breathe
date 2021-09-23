@@ -1,5 +1,5 @@
 I'm a man who breathes all the time.
-I’m learning C++ over the summer and striving to make running EXEs easier and more compatible.
+I don't know what I'm doing here.
 
 
 <!---
